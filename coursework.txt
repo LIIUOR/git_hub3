@@ -16,3 +16,4 @@ echo " Экспериментальная часть" >> coursework.txt
 echo "Попробуем использовать git stash..." >> coursework.txt
 echo "Git stash позволяет временно сохранить незавершенные изменения
 " >> coursework.txt
+savdavgga
