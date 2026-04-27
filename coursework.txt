@@ -8,3 +8,11 @@ echo "Git позволяет отслеживать изменения..." >> co
 echo "" >> coursework.txt
 echo " Глава 2" >> coursework.txt
 echo "Основные команды Git: init, add, commit, push" >> coursework.txt
+echo "" >> coursework.txt
+echo " Глава 3" >> coursework.txt
+echo "Ветвление и слияние в Git" >> coursework.txt
+echo "" >> coursework.txt
+echo " Экспериментальная часть" >> coursework.txt
+echo "Попробуем использовать git stash..." >> coursework.txt
+echo "Git stash позволяет временно сохранить незавершенные изменения
+" >> coursework.txt
