@@ -5,3 +5,6 @@ echo "Тема: Изучение систем контроля версий" >> 
 echo "" >> coursework.txt
 echo " Глава 1" >> coursework.txt
 echo "Git позволяет отслеживать изменения..." >> coursework.txt
+echo "" >> coursework.txt
+echo " Глава 2" >> coursework.txt
+echo "Основные команды Git: init, add, commit, push" >> coursework.txt
