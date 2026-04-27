@@ -1,0 +1,7 @@
+echo " Моя курсовая работа" > coursework.txt
+echo "" >> coursework.txt
+echo " Введение" >> coursework.txt
+echo "Тема: Изучение систем контроля версий" >> coursework.txt
+echo "" >> coursework.txt
+echo " Глава 1" >> coursework.txt
+echo "Git позволяет отслеживать изменения..." >> coursework.txt
